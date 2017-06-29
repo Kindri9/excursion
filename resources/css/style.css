@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana;
+}
+
+h1 {
+  font-weight: normal;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
