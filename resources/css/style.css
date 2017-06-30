@@ -1,11 +1,13 @@
 body {
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-weight: normal;
   color: white;
+  font-size: 50px;
 }
 
 h2 {
@@ -16,4 +18,12 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
+}
+
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: Aquamarine;
 }
